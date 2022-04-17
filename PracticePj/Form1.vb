@@ -11,6 +11,8 @@ Public Class Form1
     Dim strCsvDirPath As String
     Dim strLogDirPath As String
 
+    Dim testForGithub As String
+
     Public Shared logDivStart As String = "  ===Start==="
     Public Shared logDivEnd As String = "  ===End==="
 
