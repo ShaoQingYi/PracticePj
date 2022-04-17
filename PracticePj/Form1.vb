@@ -12,6 +12,7 @@ Public Class Form1
     Dim strLogDirPath As String
 
     Dim testForGithub As String
+    Dim testForGithub2 As String
 
     Public Shared logDivStart As String = "  ===Start==="
     Public Shared logDivEnd As String = "  ===End==="
